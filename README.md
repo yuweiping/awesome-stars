@@ -47,7 +47,7 @@
 
 *   [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 
-*   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
+*   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) -  One-Click to deploy your own ChatGPT web UI. 一键拥有你自己的 ChatGPT 网页服务。
 
 *   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - An AIGC tool
 
@@ -227,7 +227,7 @@
 
 *   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀  provides APIs and Docs without writing any code.
 
-*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - Free multi-platform database tool for developers.(数据库客户端工具)
+*   [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - Free multi-platform database tool for developers.(数据库客户端工具)
 
 *   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
 
