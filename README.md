@@ -47,7 +47,7 @@
 
 *   [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 
-*   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) -  One-Click to deploy your own ChatGPT web UI. 一键拥有你自己的 ChatGPT 网页服务。
+*   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 
 *   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - An AIGC tool
 
@@ -179,7 +179,7 @@
 
 ## CSS
 
-*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) -
+*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
 
 *   [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 
@@ -363,7 +363,7 @@
 
 *   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 
-*   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - ⭐️「企业级低代码平台」采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
+*   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - ⭐️JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
 
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
