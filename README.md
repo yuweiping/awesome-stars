@@ -417,7 +417,7 @@
 
 *   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 
 ## PHP
 
