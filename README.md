@@ -31,9 +31,10 @@
 *   [Haskell](#haskell)
 *   [Svelte](#svelte)
 *   [Rust](#rust)
-*   [C](#c-2)
 
 ## Java
+
+*   [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry) -
 
 *   [p6spy/p6spy](https://github.com/p6spy/p6spy) - P6Spy is a framework that enables database data to be seamlessly intercepted and logged with no code changes to the application.
 
@@ -45,7 +46,7 @@
 
 *   [apache/rocketmq-spring](https://github.com/apache/rocketmq-spring) - Apache RocketMQ Spring Integration
 
-*   [dromara/SMS4J](https://github.com/dromara/SMS4J) - sms-aggregation采用了Apache-2.0 license开源协议，方便志同道合的朋友一起为开源贡献力量💪💪💪💪💪💪 目前已接入数家常见的短信服务商，后续将会继续集成。后续的版本中我们还将推出更多的相关功能 你的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果你觉得还不错，请点上一颗小星星
+*   [dromara/SMS4J](https://github.com/dromara/SMS4J) - SMS4J采用了Apache-2.0 license开源协议，方便志同道合的朋友一起为开源贡献力量💪💪💪💪💪💪 目前已接入数家常见的短信服务商，后续将会继续集成。后续的版本中我们还将推出更多的相关功能 你的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果你觉得还不错，请点上一颗小星星
 
 *   [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 
@@ -484,7 +485,3 @@
 ## Rust
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-## C
-
-*   [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
