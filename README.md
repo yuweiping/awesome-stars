@@ -88,7 +88,7 @@
 
 *   [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
 
-*   [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - FASTJSON2 is a Java JSON  library with excellent performance.
+*   [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 
 *   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring tool with custom-monitor and agentless.  Web, database, os, middleware, cloudnative, network and more. Aim to monitor everything!
 
