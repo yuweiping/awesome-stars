@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [SCSS](#scss)
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [TypeScript](#typescript)
@@ -25,11 +26,16 @@
 *   [Dockerfile](#dockerfile)
 *   [Ruby](#ruby)
 *   [Shell](#shell)
-*   [SCSS](#scss)
 *   [Perl](#perl)
 *   [Haskell](#haskell)
 *   [Svelte](#svelte)
 *   [Rust](#rust)
+
+## SCSS
+
+*   [LineageOS/lineage\_wiki](https://github.com/LineageOS/lineage_wiki) -
+
+*   [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 
 ## JavaScript
 
@@ -429,8 +435,6 @@
 
 *   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
-*   [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
-
 ## C\#
 
 *   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -462,10 +466,6 @@
 ## Shell
 
 *   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-
-## SCSS
-
-*   [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 
 ## Perl
 
