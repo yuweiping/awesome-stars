@@ -334,7 +334,7 @@
 
 *   [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 
-*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring tool with custom-monitor and agentless.  Web, database, os, middleware, cloudnative, network and more. Aim to monitoring everything!
+*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitor and agentless.  Web, database, os, middleware, cloudnative, network and more.
 
 *   [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB
 
