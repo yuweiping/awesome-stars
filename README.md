@@ -133,7 +133,7 @@
 
 *   [apache/rocketmq-spring](https://github.com/apache/rocketmq-spring) - Apache RocketMQ Spring Integration
 
-*   [dromara/SMS4J](https://github.com/dromara/SMS4J) - SMS4J采用了Apache-2.0 license开源协议，方便志同道合的朋友一起为开源贡献力量💪💪💪💪💪💪 目前已接入数家常见的短信服务商，后续将会继续集成。后续的版本中我们还将推出更多的相关功能 你的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果你觉得还不错，请点上一颗小星星
+*   [dromara/SMS4J](https://github.com/dromara/SMS4J) - 让简单的事情回归简单的本质。 SMS4J为短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信SDK的繁琐流程。 目前已接入数家常见的短信服务商，后续将会继续集成。后续的版本中我们还将推出更多的相关功能 你的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果你觉得还不错，请点上一颗小星星
 
 *   [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 
