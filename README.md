@@ -19,7 +19,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [VBScript](#vbscript)
 *   [C#](#c-1)
 *   [PHP](#php)
 *   [Markdown](#markdown)
@@ -51,6 +50,8 @@
 *   [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 
 *   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+
+*   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
 
 *   [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 
@@ -435,10 +436,6 @@
 ## Jupyter Notebook
 
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-## VBScript
-
-*   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
 
 ## C\#
 
