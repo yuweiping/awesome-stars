@@ -468,6 +468,8 @@
 
 *   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 
+*   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
+
 *   [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
 
 *   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
@@ -503,8 +505,6 @@
 *   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 
 *   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-
-*   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 
 *   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
 
