@@ -96,7 +96,7 @@
 
 *   [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 
-*   [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+*   [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 
 *   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
