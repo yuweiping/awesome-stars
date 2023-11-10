@@ -180,7 +180,7 @@
 
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite5+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
 ## TypeScript
 
@@ -244,7 +244,7 @@
 
 *   [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 
-*   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+*   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 
