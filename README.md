@@ -4,8 +4,9 @@
 
 ## Table of Contents
 
-*   [Python](#python)
+*   [HTML](#html)
 *   [JavaScript](#javascript)
+*   [Python](#python)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -13,7 +14,6 @@
 *   [C#](#c)
 *   [Kotlin](#kotlin)
 *   [SCSS](#scss)
-*   [HTML](#html)
 *   [Go](#go)
 *   [C++](#c-1)
 *   [Dart](#dart)
@@ -30,59 +30,31 @@
 *   [Rust](#rust)
 *   [C](#c-2)
 
-## Python
+## HTML
 
-*   [clearJSer/MaoTaiYYDS](https://github.com/clearJSer/MaoTaiYYDS) - 酱香科技YYDS
+*   [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网、标签纸
 
-*   [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
+*   [taoqf/node-html-parser](https://github.com/taoqf/node-html-parser) - A very fast HTML parser, generating a simplified DOM, with basic element query support.
 
-*   [Rockyzsu/stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
+*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 
-*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+*   [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
 
-*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+*   [dromara/payment-spring-boot](https://github.com/dromara/payment-spring-boot) - 微信支付V3支付，支持微信优惠券，代金券、商家券、公众号支付、微信小程序支付、分账、支付分、商家券、合单支付、先享卡、电商收付通等全部微信支付功能API，同时满足服务商、商户开发需求。一键集成，上手快，欢迎star。
 
-*   [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+*   [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
-*   [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) -
+*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 
-*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
-
-*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-
-*   [LogicJake/WebMonitor](https://github.com/LogicJake/WebMonitor) - 实时监控网页变化，并发送通知（Monitor web page changes in real time and send notifications）
-
-*   [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange\_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-
-*   [Evil0ctal/Douyin\_TikTok\_Download\_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin\_TikTok\_Download\_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
-
-*   [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family\_man\_man\_boy: by monitoring wifi signals :satellite:
-
-*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-
-*   [JiehangXie/PaddleBoBo](https://github.com/JiehangXie/PaddleBoBo) - 基于飞桨开发的虚拟主播
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-*   [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
-
-*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+*   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
 
 ## JavaScript
+
+*   [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 
 *   [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 
@@ -206,7 +178,57 @@
 
 *   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 
-*   [wechat-miniprogram/miniprogram-component-plus](https://github.com/wechat-miniprogram/miniprogram-component-plus) -
+## Python
+
+*   [clearJSer/MaoTaiYYDS](https://github.com/clearJSer/MaoTaiYYDS) - 酱香科技YYDS
+
+*   [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
+
+*   [Rockyzsu/stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
+
+*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+
+*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+
+*   [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+
+*   [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) -
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
+
+*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+
+*   [LogicJake/WebMonitor](https://github.com/LogicJake/WebMonitor) - 实时监控网页变化，并发送通知（Monitor web page changes in real time and send notifications）
+
+*   [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange\_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+
+*   [Evil0ctal/Douyin\_TikTok\_Download\_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin\_TikTok\_Download\_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+
+*   [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family\_man\_man\_boy: by monitoring wifi signals :satellite:
+
+*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+
+*   [JiehangXie/PaddleBoBo](https://github.com/JiehangXie/PaddleBoBo) - 基于飞桨开发的虚拟主播
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+*   [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
+
+*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 
 ## Vue
 
@@ -230,7 +252,7 @@
 
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite5+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
 ## TypeScript
 
@@ -550,8 +572,6 @@
 
 *   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
 ## SCSS
 
 *   [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
@@ -559,26 +579,6 @@
 *   [LineageOS/lineage\_wiki](https://github.com/LineageOS/lineage_wiki) -
 
 *   [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
-
-## HTML
-
-*   [taoqf/node-html-parser](https://github.com/taoqf/node-html-parser) - A very fast HTML parser, generating a simplified DOM, with basic element query support.
-
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
-*   [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
-
-*   [dromara/payment-spring-boot](https://github.com/dromara/payment-spring-boot) - 微信支付V3支付，支持微信优惠券，代金券、商家券、公众号支付、微信小程序支付、分账、支付分、商家券、合单支付、先享卡、电商收付通等全部微信支付功能API，同时满足服务商、商户开发需求。一键集成，上手快，欢迎star。
-
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
-
-*   [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
-
-*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
-
-*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-
-*   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
 
 ## Go
 
