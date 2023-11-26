@@ -206,6 +206,8 @@
 
 *   [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
 
+*   [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+
 ## Makefile
 
 *   [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
@@ -566,7 +568,7 @@
 
 ## Vue
 
-*   [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - A user-empowering data visualization Vue components library
+*   [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - A user-empowering data visualization Vue 3 components library
 
 *   [hooray/vue-sku-form](https://github.com/hooray/vue-sku-form) - 基于 Vue & ElementUI 的电商 SKU 表单配置组件
 
@@ -603,8 +605,6 @@
 *   [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 
 *   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-
-*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 *   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 
