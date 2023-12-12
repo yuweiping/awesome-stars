@@ -158,7 +158,7 @@
 
 *   [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 
-*   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
+*   [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
 
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 
