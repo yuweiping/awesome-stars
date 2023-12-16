@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [SCSS](#scss)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -18,7 +19,6 @@
 *   [Vue](#vue)
 *   [C#](#c-1)
 *   [Kotlin](#kotlin)
-*   [SCSS](#scss)
 *   [Dart](#dart)
 *   [CSS](#css)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -31,6 +31,16 @@
 *   [Haskell](#haskell)
 *   [Rust](#rust)
 *   [C](#c-2)
+
+## SCSS
+
+*   [LouisBarranqueiro/hexo-theme-tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak) - :lipstick: A gorgeous responsive theme for Hexo blog framework
+
+*   [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
+
+*   [LineageOS/lineage\_wiki](https://github.com/LineageOS/lineage_wiki) -
+
+*   [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 
 ## JavaScript
 
@@ -402,8 +412,6 @@
 
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
-*   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) -
-
 ## Java
 
 *   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -611,14 +619,6 @@
 *   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 
 *   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-
-## SCSS
-
-*   [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
-
-*   [LineageOS/lineage\_wiki](https://github.com/LineageOS/lineage_wiki) -
-
-*   [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 
 ## Dart
 
