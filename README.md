@@ -246,7 +246,7 @@
 
 *   [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 
-*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build customized Admin Panel for your App and Website. Supports multi-person collaboration. Significantly reduce development time
+*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build AI Driven Business App
 
 *   [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 
