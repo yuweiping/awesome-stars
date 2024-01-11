@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
@@ -13,7 +14,6 @@
 *   [C++](#c)
 *   [Dart](#dart)
 *   [SCSS](#scss)
-*   [Java](#java)
 *   [Shell](#shell)
 *   [Makefile](#makefile)
 *   [Clojure](#clojure)
@@ -30,6 +30,98 @@
 *   [Perl](#perl)
 *   [Haskell](#haskell)
 *   [Rust](#rust)
+
+## Java
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+
+*   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+
+*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
+
+*   [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel  spring boot starter
+
+*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
+
+*   [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - PlayEdu 是一款适用于搭建内部培训平台的开源系统，旨在为企业/机构打造自己品牌的内部培训平台。
+
+*   [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry) -
+
+*   [p6spy/p6spy](https://github.com/p6spy/p6spy) - P6Spy is a framework that enables database data to be seamlessly intercepted and logged with no code changes to the application.
+
+*   [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+
+*   [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
+
+*   [rudikershaw/git-build-hook](https://github.com/rudikershaw/git-build-hook) - A maven plugin for managing client side (local) git configuration for those working on your project. Including but not limited to setting git config, installing hooks, validating the local repository.
+
+*   [apache/rocketmq-spring](https://github.com/apache/rocketmq-spring) - Apache RocketMQ Spring Integration
+
+*   [dromara/SMS4J](https://github.com/dromara/SMS4J) - 让简单的事情回归简单的本质。 SMS4J为短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信SDK的繁琐流程。 目前已接入数家常见的短信服务商，后续将会继续集成。后续的版本中我们还将推出更多的相关功能 你的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果你觉得还不错，请点上一颗小星星
+
+*   [dromara/TLog](https://github.com/dromara/TLog) - Lightweight distributed log label tracking framwork
+
+*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+
+*   [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
+
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+
+*   [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
+
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+
+*   [dromara/forest](https://github.com/dromara/forest) - A high-level and lightweight declarative HTTP client framework for Java. it makes sending HTTP requests in Java easier.
+
+*   [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
+
+*   [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 Samba、NFS
+
+*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
+
+*   [xiaonuobase/Snowy](https://github.com/xiaonuobase/Snowy) - 💖Snowy是一款国内首个国密前后分离快速开发平台，采用Vue3+AntDesignVue3 + Vite+SpringBoot+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，真正做到：前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
+
+*   [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
+
+*   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀  provides APIs and Docs without writing any code.
+
+*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
+
+*   [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
+
+*   [dromara/RedisFront](https://github.com/dromara/RedisFront) - RedisFront 是一款开源免费的跨平台 Redis 桌面客户端工具, 支持单机模式, 集群模式, 哨兵模式以及 SSH 隧道连接, 欢迎下载使用.
+
+*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+
+*   [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
+
+*   [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
+
+*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.
+
+*   [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB
+
+*   [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
+
+*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+
+*   [apache/rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+
+*   [google/guava](https://github.com/google/guava) - Google core libraries for Java
+
+*   [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
+
+*   [Pay-Group/best-pay-sdk](https://github.com/Pay-Group/best-pay-sdk) - 可能是最好的支付SDK
+
+*   [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包（即SDK），只提供简单Web实现，建议使用maven或gradle引用本项目即可使用本SDK提供的各种支付相关的功能
+
+*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+
+*   [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
 
 ## TypeScript
 
@@ -121,7 +213,7 @@
 
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 
-*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
 *   [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 
@@ -465,8 +557,6 @@
 
 *   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
 
-*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
-
 ## Dart
 
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -486,96 +576,6 @@
 *   [LineageOS/lineage\_wiki](https://github.com/LineageOS/lineage_wiki) -
 
 *   [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
-
-## Java
-
-*   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-
-*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
-
-*   [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel  spring boot starter
-
-*   [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
-
-*   [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu) - PlayEdu 是一款适用于搭建内部培训平台的开源系统，旨在为企业/机构打造自己品牌的内部培训平台。
-
-*   [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry) -
-
-*   [p6spy/p6spy](https://github.com/p6spy/p6spy) - P6Spy is a framework that enables database data to be seamlessly intercepted and logged with no code changes to the application.
-
-*   [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-
-*   [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
-
-*   [rudikershaw/git-build-hook](https://github.com/rudikershaw/git-build-hook) - A maven plugin for managing client side (local) git configuration for those working on your project. Including but not limited to setting git config, installing hooks, validating the local repository.
-
-*   [apache/rocketmq-spring](https://github.com/apache/rocketmq-spring) - Apache RocketMQ Spring Integration
-
-*   [dromara/SMS4J](https://github.com/dromara/SMS4J) - 让简单的事情回归简单的本质。 SMS4J为短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信SDK的繁琐流程。 目前已接入数家常见的短信服务商，后续将会继续集成。后续的版本中我们还将推出更多的相关功能 你的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果你觉得还不错，请点上一颗小星星
-
-*   [dromara/TLog](https://github.com/dromara/TLog) - Lightweight distributed log label tracking framwork
-
-*   [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-
-*   [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
-
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-
-*   [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
-
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-
-*   [dromara/forest](https://github.com/dromara/forest) - A high-level and lightweight declarative HTTP client framework for Java. it makes sending HTTP requests in Java easier.
-
-*   [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) - Mirror of the IntelliJ SDK Docs Code Samples
-
-*   [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 Samba、NFS
-
-*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
-
-*   [xiaonuobase/Snowy](https://github.com/xiaonuobase/Snowy) - 💖Snowy是一款国内首个国密前后分离快速开发平台，采用Vue3+AntDesignVue3 + Vite+SpringBoot+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，真正做到：前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
-
-*   [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
-
-*   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀  provides APIs and Docs without writing any code.
-
-*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
-
-*   [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
-
-*   [dromara/RedisFront](https://github.com/dromara/RedisFront) - RedisFront 是一款开源免费的跨平台 Redis 桌面客户端工具, 支持单机模式, 集群模式, 哨兵模式以及 SSH 隧道连接, 欢迎下载使用.
-
-*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
-
-*   [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
-
-*   [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
-
-*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.
-
-*   [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB
-
-*   [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
-
-*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-
-*   [apache/rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
-
-*   [google/guava](https://github.com/google/guava) - Google core libraries for Java
-
-*   [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
-
-*   [Pay-Group/best-pay-sdk](https://github.com/Pay-Group/best-pay-sdk) - 可能是最好的支付SDK
-
-*   [egzosn/pay-java-parent](https://github.com/egzosn/pay-java-parent) - 第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包（即SDK），只提供简单Web实现，建议使用maven或gradle引用本项目即可使用本SDK提供的各种支付相关的功能
-
-*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-
-*   [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
 
 ## Shell
 
@@ -619,7 +619,7 @@
 
 *   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - 🔥JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
 
-*   [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
+*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 
 *   [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 
