@@ -55,6 +55,8 @@
 
 *   [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) - Hand-crafted Frida examples
 
+*   [x0tools/WeChatOpenDevTools](https://github.com/x0tools/WeChatOpenDevTools) -
+
 *   [maotoumao/wxpc-miniprogram-decryption](https://github.com/maotoumao/wxpc-miniprogram-decryption) - pc端微信小程序包wxapkg文件解密，nodejs版本。
 
 *   [huoevl/wxUnpackTool](https://github.com/huoevl/wxUnpackTool) - 微信解包工具  整合自用BlackTrace/pc\_wxapkg\_decrypt.git，zwl55555/wxappUnpacker-master.git
@@ -367,7 +369,7 @@
 
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 
-*   [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - A user-empowering data visualization Vue 3 components library
+*   [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - A user-empowering data visualization Vue 3 components library for eloquent data storytelling
 
 *   [hooray/vue-sku-form](https://github.com/hooray/vue-sku-form) - 基于 Vue & ElementUI 的电商 SKU 表单配置组件
 
@@ -550,8 +552,6 @@
 *   [darbra/sperm](https://github.com/darbra/sperm) - 浏览过的精彩逆向文章汇总，值得一看
 
 *   [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
-
-*   [x0tools/WeChatOpenDevTools](https://github.com/x0tools/WeChatOpenDevTools) -
 
 *   [shuaibibobo/WeChatOpenDevTools](https://github.com/shuaibibobo/WeChatOpenDevTools) -
 
