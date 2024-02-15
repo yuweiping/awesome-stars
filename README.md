@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [EJS](#ejs)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Go](#go)
@@ -12,7 +14,6 @@
 *   [Dart](#dart)
 *   [Vue](#vue)
 *   [C#](#c)
-*   [Python](#python)
 *   [Java](#java)
 *   [PHP](#php)
 *   [Rust](#rust)
@@ -31,7 +32,71 @@
 *   [Perl](#perl)
 *   [Haskell](#haskell)
 
+## Python
+
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+
+*   [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+
+*   [CaoYunzhou/cocopilot-gpt](https://github.com/CaoYunzhou/cocopilot-gpt) - cocopilot-gpt
+
+*   [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
+
+*   [FreedomIntelligence/HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) - HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)
+
+*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
+
+*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+
+*   [Nriver/trilium-translation](https://github.com/Nriver/trilium-translation) - Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化
+
+*   [397179459/iMaoTai-reserve](https://github.com/397179459/iMaoTai-reserve) - Actions自动预约i茅台
+
+*   [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+
+*   [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
+
+*   [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey
+
+*   [n1ptune/jdSign](https://github.com/n1ptune/jdSign) - JD signature algorithm implemented by python
+
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
+*   [clearJSer/MaoTaiYYDS](https://github.com/clearJSer/MaoTaiYYDS) - 酱香科技YYDS
+
+*   [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
+
+*   [Rockyzsu/stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
+
+*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+
+*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+
+*   [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+
+*   [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) -
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
+
+*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+
+*   [LogicJake/WebMonitor](https://github.com/LogicJake/WebMonitor) - 实时监控网页变化，并发送通知（Monitor web page changes in real time and send notifications）
+
+*   [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange\_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+
+## EJS
+
+*   [ChenYFan/blog](https://github.com/ChenYFan/blog) - 陈YFの博客 - 基于GithubAction+Wexagonal自动部署
+
 ## JavaScript
+
+*   [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点\[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
 
 *   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 
@@ -164,8 +229,6 @@
 *   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
 *   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 ## HTML
 
@@ -339,10 +402,6 @@
 
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
-*   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-
-*   [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-
 ## CSS
 
 *   [zhheo/Wechat-Official-Account-Web](https://github.com/zhheo/Wechat-Official-Account-Web) - 微信公众号的关注界面
@@ -394,62 +453,6 @@
 *   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
-
-## Python
-
-*   [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
-
-*   [CaoYunzhou/cocopilot-gpt](https://github.com/CaoYunzhou/cocopilot-gpt) - cocopilot-gpt
-
-*   [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
-
-*   [FreedomIntelligence/HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) - HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)
-
-*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-
-*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
-
-*   [Nriver/trilium-translation](https://github.com/Nriver/trilium-translation) - Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化
-
-*   [397179459/iMaoTai-reserve](https://github.com/397179459/iMaoTai-reserve) - Actions自动预约i茅台
-
-*   [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
-
-*   [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
-
-*   [Zy143L/wskey](https://github.com/Zy143L/wskey) - wskey
-
-*   [n1ptune/jdSign](https://github.com/n1ptune/jdSign) - JD signature algorithm implemented by python
-
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-
-*   [clearJSer/MaoTaiYYDS](https://github.com/clearJSer/MaoTaiYYDS) - 酱香科技YYDS
-
-*   [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
-
-*   [Rockyzsu/stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
-
-*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
-
-*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
-
-*   [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
-
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-
-*   [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) -
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
-
-*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-
-*   [LogicJake/WebMonitor](https://github.com/LogicJake/WebMonitor) - 实时监控网页变化，并发送通知（Monitor web page changes in real time and send notifications）
-
-*   [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange\_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 
 ## Java
 
