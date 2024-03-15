@@ -71,8 +71,6 @@
 
 *   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
 *   [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart) - 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）
 
 *   [ApeWhoLovesCode/LegendTD](https://github.com/ApeWhoLovesCode/LegendTD) - Vue3+Ts+Worker+OffscreenCanvas开发的塔防小游戏
@@ -421,7 +419,7 @@
 
 *   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 
-*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 
 *   [Nriver/trilium-translation](https://github.com/Nriver/trilium-translation) - Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化
 
@@ -436,6 +434,8 @@
 *   [n1ptune/jdSign](https://github.com/n1ptune/jdSign) - JD signature algorithm implemented by python
 
 *   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 *   [clearJSer/MaoTaiYYDS](https://github.com/clearJSer/MaoTaiYYDS) - 酱香科技YYDS
 
