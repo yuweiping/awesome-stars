@@ -778,7 +778,7 @@
 
 *   [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 
-*   [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+*   [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
 *   [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB
 
