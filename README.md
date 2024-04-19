@@ -25,7 +25,7 @@
 *   [Rust](#rust)
 *   [C++](#c-1)
 *   [SCSS](#scss)
-*   [Makefile](#makefile)
+*   [Meson](#meson)
 *   [Clojure](#clojure)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Markdown](#markdown)
@@ -854,7 +854,7 @@
 
 *   [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 
-## Makefile
+## Meson
 
 *   [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
