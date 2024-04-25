@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Python](#python)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -19,7 +20,6 @@
 *   [EJS](#ejs)
 *   [CSS](#css)
 *   [Dart](#dart)
-*   [Vue](#vue)
 *   [Java](#java)
 *   [PHP](#php)
 *   [Rust](#rust)
@@ -35,6 +35,30 @@
 *   [Perl](#perl)
 *   [Haskell](#haskell)
 *   [C](#c-2)
+
+## Vue
+
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia + Vite5 仿抖音，完全度90% .  Imitate TikTok with 90% completeness
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+
+*   [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - A user-empowering data visualization Vue 3 components library for eloquent data storytelling
+
+*   [hooray/vue-sku-form](https://github.com/hooray/vue-sku-form) - 基于 Vue & ElementUI 的电商 SKU 表单配置组件
+
+*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
+
+*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+
+*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
+
+*   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - 🔥JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
+
+*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
+
+*   [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
+
+*   [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 
 ## Python
 
@@ -255,8 +279,6 @@
 *   [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 
 *   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-
-*   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
 
 *   [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 
@@ -610,6 +632,8 @@
 
 *   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 
+*   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
+
 *   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 
 *   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
@@ -639,8 +663,6 @@
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) -
 
 ## PowerShell
 
@@ -685,28 +707,6 @@
 *   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 *   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-## Vue
-
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
-
-*   [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - A user-empowering data visualization Vue 3 components library for eloquent data storytelling
-
-*   [hooray/vue-sku-form](https://github.com/hooray/vue-sku-form) - 基于 Vue & ElementUI 的电商 SKU 表单配置组件
-
-*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
-
-*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-
-*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
-
-*   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - 🔥JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
-
-*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-
-*   [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
-
-*   [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 
 ## Java
 
