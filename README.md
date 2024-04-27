@@ -208,7 +208,7 @@
 
 ## Vue
 
-*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia + Vite5 仿抖音，完全度90% .  Imitate TikTok with 90% completeness
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 
