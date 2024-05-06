@@ -38,6 +38,8 @@
 
 ## JavaScript
 
+*   [ylw00/qxVm](https://github.com/ylw00/qxVm) - qxVm补环境框架(纯js实现)
+
 *   [cilame/v\_jstools](https://github.com/cilame/v_jstools) - 模仿着写一个 chrome 插件，用来快速调试前端 js 代码。
 
 *   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
@@ -378,7 +380,7 @@
 
 ## Vue
 
-*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 
@@ -491,8 +493,6 @@
 *   [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family\_man\_man\_boy: by monitoring wifi signals :satellite:
 
 *   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-
-*   [JiehangXie/PaddleBoBo](https://github.com/JiehangXie/PaddleBoBo) - 基于飞桨开发的虚拟主播
 
 ## Go
 
@@ -768,7 +768,7 @@
 
 *   [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀  provides APIs and Docs without writing any code.
 
-*   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
+*   [dataease/dataease](https://github.com/dataease/dataease) - :fire: 人人可用的开源数据可视化分析工具，帆软、Tableau 等商业 BI 工具的开源替代。
 
 *   [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 
