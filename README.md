@@ -406,7 +406,7 @@
 
 *   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 
-*   [LanQian528/chat2api](https://github.com/LanQian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
+*   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 
 *   [zero3301/pyhttpx](https://github.com/zero3301/pyhttpx) - A network library based on socket development
 
