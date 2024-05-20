@@ -133,7 +133,7 @@
 
 *   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
 
-*   [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+*   [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
@@ -585,8 +585,6 @@
 
 *   [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 
-*   [r3x5ur/unveilr](https://github.com/r3x5ur/unveilr) -
-
 *   [WankkoRee/BurpLoaderKeygenCnF](https://github.com/WankkoRee/BurpLoaderKeygenCnF) - BurpSuite Pro Loader & Keygen & Translator Fix ( BurpSuite version v2020.1 - ∞ )
 
 *   [kabeor/Unicorn-Engine-Documentation](https://github.com/kabeor/Unicorn-Engine-Documentation) - Official Unicorn CPU emulator framework API documentation
@@ -640,6 +638,8 @@
 *   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 
 *   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ## HTML
 
