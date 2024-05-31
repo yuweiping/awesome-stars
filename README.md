@@ -4,16 +4,18 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [Vue](#vue)
+*   [C++](#c)
 *   [HTML](#html)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [JavaScript](#javascript)
-*   [Vue](#vue)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [Jinja](#jinja)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
 *   [PowerShell](#powershell)
@@ -22,11 +24,9 @@
 *   [Java](#java)
 *   [PHP](#php)
 *   [Rust](#rust)
-*   [C++](#c-1)
 *   [SCSS](#scss)
 *   [Meson](#meson)
 *   [Clojure](#clojure)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Markdown](#markdown)
 *   [Dockerfile](#dockerfile)
 *   [MDX](#mdx)
@@ -34,6 +34,60 @@
 *   [Perl](#perl)
 *   [Haskell](#haskell)
 *   [C](#c-2)
+
+## Jupyter Notebook
+
+*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
+
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
+## Vue
+
+*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+
+*   [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - A user-empowering data visualization Vue 3 components library for eloquent data storytelling
+
+*   [hooray/vue-sku-form](https://github.com/hooray/vue-sku-form) - 基于 Vue & ElementUI 的电商 SKU 表单配置组件
+
+*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
+
+*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+
+*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
+
+*   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - 🔥JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
+
+*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
+
+*   [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
+
+## C++
+
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it operates as a reverse proxy to protect your website from hacker attacks.
+
+*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+
+*   [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
+
+*   [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
+
+*   [datenpanne/android\_device\_huawei\_federer](https://github.com/datenpanne/android_device_huawei_federer) -
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+
+*   [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x.
+
+*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
+
+*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## HTML
 
@@ -105,7 +159,7 @@
 
 *   [397179459/iMaoTai-reserve](https://github.com/397179459/iMaoTai-reserve) - Actions自动预约i茅台
 
-*   [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+*   [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 
 *   [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 
@@ -327,8 +381,6 @@
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
-*   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-
 ## Dart
 
 *   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器
@@ -516,32 +568,6 @@
 *   [xianyuyimu/TVBOX-](https://github.com/xianyuyimu/TVBOX-) - 一木TVBOX自用仓库
 
 *   [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
-
-*   [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
-
-*   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-
-## Vue
-
-*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
-
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
-
-*   [graphieros/vue-data-ui](https://github.com/graphieros/vue-data-ui) - A user-empowering data visualization Vue 3 components library for eloquent data storytelling
-
-*   [hooray/vue-sku-form](https://github.com/hooray/vue-sku-form) - 基于 Vue & ElementUI 的电商 SKU 表单配置组件
-
-*   [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
-
-*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-
-*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
-
-*   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - 🔥JeecgBoot—Vue3版前端源码，采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
-
-*   [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-
-*   [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 
 ## Go
 
@@ -819,28 +845,6 @@
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
-## C++
-
-*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
-
-*   [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
-
-*   [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
-
-*   [datenpanne/android\_device\_huawei\_federer](https://github.com/datenpanne/android_device_huawei_federer) -
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-
-*   [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x.
-
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
-
-*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
-
 ## SCSS
 
 *   [LouisBarranqueiro/hexo-theme-tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak) - :lipstick: A gorgeous responsive theme for Hexo blog framework
@@ -858,10 +862,6 @@
 ## Clojure
 
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## Jupyter Notebook
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
 ## Markdown
 
