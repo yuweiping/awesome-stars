@@ -18,6 +18,7 @@
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
 *   [PowerShell](#powershell)
+*   [AutoIt](#autoit)
 *   [EJS](#ejs)
 *   [CSS](#css)
 *   [Java](#java)
@@ -627,8 +628,6 @@
 
 *   [leibnizli/fontmagic](https://github.com/leibnizli/fontmagic) - FontMagic is a font manipulation application that supports macOS, Windows. It can export specific glyphs to SVG
 
-*   [wangzhenjjcn/AdobeGenp](https://github.com/wangzhenjjcn/AdobeGenp) - AdobeGenp Adobe Adobe CC 2019/2020/2021/2022/2023/2024 GenP Universal Patch 3.0 December 25, 2022 - Software  from https://www.cybermania.ws/software/adobe-genp/
-
 *   [darbra/sperm](https://github.com/darbra/sperm) - 浏览过的精彩逆向文章汇总，值得一看
 
 *   [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
@@ -690,6 +689,10 @@
 ## PowerShell
 
 *   [orev/dpst-control](https://github.com/orev/dpst-control) - Easily disable/enable Intel Display Power Saving Technology (DPST)
+
+## AutoIt
+
+*   [wangzhenjjcn/AdobeGenp](https://github.com/wangzhenjjcn/AdobeGenp) - AdobeGenp Adobe Adobe CC 2019/2020(2021/2022/2023/2024TEST) GenP Universal Patch 3.0 December 25, 2022 - Software  from https://www.cybermania.ws/software/adobe-genp/
 
 ## EJS
 
