@@ -420,7 +420,7 @@
 
 *   [dengbaikun/jdh5st](https://github.com/dengbaikun/jdh5st) - jdh5st
 
-*   [danni-cool/wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook) - 可部署的微信机器人webhook服务，使用http接口收发微信消息, 用它作为个人通知、AIGC 应用或者 coze、n8n等自动化工作流的消息节点
+*   [danni-cool/wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook) - 轻量、可部署的微信机器人webhook服务，使用http接口收发微信消息, 用它作为个人通知、AIGC 应用或者 coze、n8n等自动化工作流的消息节点
 
 *   [wj2008/auto-push-alist](https://github.com/wj2008/auto-push-alist) - 自动将github action编译出来的文件上传到AList上面
 
