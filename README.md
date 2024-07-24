@@ -507,7 +507,7 @@
 
 ## TypeScript
 
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、酷狗音乐、qq音乐等网络资源下载!
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、酷狗、QQ音乐等网络资源下载!
 
 *   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 
