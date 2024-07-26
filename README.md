@@ -4,15 +4,16 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [PHP](#php)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [Vue](#vue)
 *   [Go](#go)
 *   [Dart](#dart)
@@ -34,6 +35,10 @@
 *   [Ruby](#ruby)
 *   [Perl](#perl)
 *   [Haskell](#haskell)
+
+## C
+
+*   [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 
 ## TypeScript
 
@@ -704,8 +709,6 @@
 *   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 *   [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x.
-
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
 
 ## Vue
 
