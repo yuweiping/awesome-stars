@@ -49,7 +49,7 @@
 
 *   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
-*   [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - 提供企业级调研服务，「快速」打造「专属」问卷系统, 让调研「更轻松」
+*   [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an open-source form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 
 *   [M-cheng-web/web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段
 
@@ -695,7 +695,7 @@
 
 *   [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
 
-*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 
 *   [sass/node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass
 
