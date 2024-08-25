@@ -73,7 +73,7 @@
 
 *   [CaoYunzhou/cocopilot-gpt](https://github.com/CaoYunzhou/cocopilot-gpt) - cocopilot-gpt
 
-*   [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
+*   [instantX-research/InstantID](https://github.com/instantX-research/InstantID) - InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥
 
 *   [FreedomIntelligence/HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) - HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)
 
@@ -801,7 +801,7 @@
 
 *   [mark-magic/mark-magic](https://github.com/mark-magic/mark-magic) - A markdown-based data connection and conversion tool to solve data conversion between different tools and coordination between some common tools.
 
-*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 
 *   [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网、标签纸
 
