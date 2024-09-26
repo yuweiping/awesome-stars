@@ -248,7 +248,7 @@
 
 *   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
-*   [hakusai22/System\_Architect](https://github.com/hakusai22/System_Architect) - 🐍 2024年软考 (杭州e类已过)系统架构设计师资料整理复习(软考高级) 二战 20天备考通过🎉🎉🎉2024年5月份的上半年系统架构师(压线过 52/46/45)   掘金文章总结体验 https://juejin.cn/post/7372757076937359395
+*   [hakusai22/System\_Architect](https://github.com/hakusai22/System_Architect) - 🐍 2024年软考 (杭州e类已通过)系统架构设计师资料整理复习(软考高级) 二战 20天备考通过🎉🎉🎉2024年5月份的上半年系统架构师(压线过 52/46/45)   掘金文章总结体验 https://juejin.cn/post/7372757076937359395
 
 *   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
