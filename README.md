@@ -482,7 +482,7 @@
 
 *   [leibnizli/fontmagic](https://github.com/leibnizli/fontmagic) - FontMagic is a font manipulation application that supports macOS, Windows. It can export specific glyphs to SVG
 
-*   [wangzhenjjcn/AdobeGenp](https://github.com/wangzhenjjcn/AdobeGenp) - AdobeGenp Adobe Adobe CC 2019/2020(2021/2022/2023/2024TEST) GenP Universal Patch 3.0 December 25, 2022 - Software
+*   [wangzhenjjcn/AdobeGenp](https://github.com/wangzhenjjcn/AdobeGenp) - AdobeGenp Adobe Adobe CC 2019/2020(2021/2022/2023/2024/2025TEST) GenP Universal Patch
 
 *   [darbra/sperm](https://github.com/darbra/sperm) - 浏览过的精彩逆向文章汇总，值得一看
 
